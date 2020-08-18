@@ -1,0 +1,22 @@
+{
+  "name": "shengshengyuanhua",
+  "version": "1.0.0",
+  "description": "昇晟元化",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "emoji-regex": "^8.0.0",
+    "jweixin-module": "^1.4.1",
+    "vconsole": "^3.3.4",
+    "vuex": "^3.1.2"
+  }
+}
